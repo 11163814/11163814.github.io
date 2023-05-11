@@ -1,0 +1,11 @@
+body{
+  back ground-color:#697A3E;
+}
+
+h1{
+  text-transform:uppercase;
+  text-algin: center;
+  background-color:aquamarine;
+  color:#3F94a6;
+  font-fanily:arial, "arial black", "arial narrow", "arial rounded MT Bold";
+}
